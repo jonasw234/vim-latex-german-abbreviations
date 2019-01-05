@@ -17,6 +17,7 @@ Next time you edit a LaTeX document when you type 'bzw.' and trigger the abbrevi
 automatically gets expanded to 'bzw.\' (for fixed spacing).
 Please see `:h abbreviations` about what triggers abbreviations.
 When you type 'Bzw.' and trigger the abbreviation, it will expand to 'Beziehungsweise', because you
-shouldn't use abbreviations at the start of sentences.
+shouldn't use abbreviations at the start of sentences
+(https://www.korrekturen.de/forum.pl/md/read/id/1880/sbj/duden-newsletter-vom-5-september-2003/).
 When you type 'o.B.d.A.' and trigger the abbreviation, it will expand to 'o.\,B.\,d.\,A.\' with
 small protected spaces in between the abbreviation parts.
